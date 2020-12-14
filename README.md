@@ -20,6 +20,7 @@
 
 ---------
 # 링크 모음
+<b>블로그</b>: http://datadoctorblog.com/ <br>
 <b>R download</b>: https://cran.r-project.org <br>
 <b>RStudio download</b>: https://www.rstudio.com/products/rstudio/download/ <br>
 <b>Kaggle</b>: https://kaggle.com <br>
