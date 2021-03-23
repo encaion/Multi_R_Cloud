@@ -27,12 +27,13 @@
 <br>
 
 #### 책
-http://www.yes24.com/Product/Goods/12458880 <br>
-http://www.yes24.com/Product/Goods/17623086 <br>
-http://www.yes24.com/Product/Goods/32454904 <br>
-http://www.yes24.com/Product/Goods/63712128 <br>
-http://www.yes24.com/Product/Goods/12292773 <br>
-http://www.yes24.com/Product/Goods/34925543 <br>
+- 사회조사분석사2급: http://www.yes24.com/Product/Goods/93887911 <br>
+- 빅데이터기사: http://www.yes24.com/Product/Goods/96699154 <br>
+- R통계학: http://www.yes24.com/Product/Goods/32454904 <br>
+- 통계학도감: http://www.yes24.com/Product/Goods/63712128 <br>
+- R을 활용한 데이터 시각화: http://www.yes24.com/Product/Goods/17623086 <br>
+- 월스트리트저널 인포그래픽 가이드: http://www.yes24.com/Product/Goods/12292773 <br>
+- 직장인을 위한 실무 엑셀: http://www.yes24.com/Product/Goods/34925543 <br>
 
 ---------
 # 문의
