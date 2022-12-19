@@ -1,6 +1,6 @@
 # [bit.ly/Multi_RC](https://bit.ly/Multi_RC)
 
-교육자료 PPT 다운로드: [다운로드!](https://docs.google.com/presentation/d/1MT19KQUxGyH8oeX5Svn0iNQNFUppNkEX/edit?usp=share_link&ouid=108091373383925640826&rtpof=true&sd=true)
+교육자료 PPT 다운로드: [다운로드!](https://drive.google.com/file/d/1-HEQKHLVi-WKfp8fg8cQ7vQlnV_t4Ilm/view?usp=sharing)
 
 # 파일 다운로드 방법
 
