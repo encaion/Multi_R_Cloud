@@ -1,1 +1,9 @@
-AIzaSyBjq3ZZs6C4fGyRvmEdS8wzr3YzhFNJb
+Sys.setenv("AWS_ACCESS_KEY_ID" = "",
+           "AWS_SECRET_ACCESS_KEY" = "",
+           "AWS_DEFAULT_REGION" = "ap-northeast-2")
+# ap-northeast-2 는 서울.
+
+# install.packages("aws.s3")
+library("aws.s3")
+
+bucketlist()
