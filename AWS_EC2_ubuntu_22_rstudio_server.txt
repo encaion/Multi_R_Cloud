@@ -1,5 +1,3 @@
-https://hackmd.io/@astrobiomike/creating-stamps-2022-jetstream-image
-
 sudo -s
 apt-get update
 apt-get upgrade -y
