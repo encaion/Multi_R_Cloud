@@ -1,0 +1,17 @@
+library("shiny")
+library("shinydashboard")
+
+ui_title = titlePanel(windowTitle = "Brainmeter(PNUH)",
+                      title = tags$head(tags$link(rel = "icon", 
+                                                  href = "")))
+
+UI = dashboardPage(header = dashboardHeader(title = "R Shiny"),
+                   sidebar = dashboardSidebar(),
+                   body = dashboardBody(),
+                   title = ui_title)
+
+server = function(input, output){
+  
+}
+  
+shinyApp(ui = UI, server = server)
